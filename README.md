@@ -1,5 +1,7 @@
 # Real-Time-Bus-Tracker
 
+<img src= "Map.png" width='300' />
+
 ## This code is about Tracking the Bus in Real - Time on the map.
 
 Here's how to interact with the interface:
