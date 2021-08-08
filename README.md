@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracker
 
-<img src= "Map.png" width='300' />
+<img src= "Map.PNG" width='300' />
 
 ## This code is about Tracking the Bus in Real - Time on the map.
 
