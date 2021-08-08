@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Real Time Bus Tracker
 
-You can use the [editor on GitHub](https://github.com/PriyankaGeeta/Real-Time-Bus-Tracker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### This code is about Tracking the Bus in Real - Time on the map.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here's how to interact with the interface:
 
-### Markdown
+Once the page loads, click on the **"Show stops between MIT and Harvard"** button. A blue color location icon will start moving fro one stop to another as per its real time location.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### How to Run:
 
-# Header 1
-## Header 2
-### Header 3
+You can download the ZIP file by clicking the CODE from the  [Real Time Bus Tracker Github Repository] https://github.com/PriyankaGeeta/Real-Time-Bus-Tracker. Double click on the Index.html file and run that in your browser.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Roadmap of future improvements: 
 
-**Bold** and _Italic_ and `Code` text
+  I am planning to add a real - time traffic data collector and estimated time of arrival.
 
-[Link](url) and ![Image](src)
-```
+### License information: 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+PriyankaGeeta/Real-Time-Bus-Tracker is licensed under the
 
-### Jekyll Themes
+# MIT License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PriyankaGeeta/Real-Time-Bus-Tracker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Copyright (c) 2021 Priyanka Gupta
 
-### Support or Contact
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
