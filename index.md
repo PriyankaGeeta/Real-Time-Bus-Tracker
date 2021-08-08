@@ -9,7 +9,7 @@ Once the page loads, click on the **"Show stops between MIT and Harvard"** butto
 
 ### How to Run:
 
-You can download the ZIP file by clicking the CODE from the  [Real Time Bus Tracker Github Repository] https://github.com/PriyankaGeeta/Real-Time-Bus-Tracker. Double click on the Index.html file and run that in your browser.
+You can download the ZIP file by clicking the CODE from the  [Real Time Bus Tracker Github Repository](https://github.com/PriyankaGeeta/Real-Time-Bus-Tracker). Double click on the Index.html file and run that in your browser.
 
 
 ### Roadmap of future improvements: 
